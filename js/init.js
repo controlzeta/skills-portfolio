@@ -79,9 +79,9 @@ var options = {
   prefix : '', 
   suffix : '' 
 };
-var demo = new CountUp("CountUp1", 0, 8465, 0, 2.5, options); demo.start(); //Líneas de Código
- demo = new CountUp("CountUp2", 0, 16, 0, 2.5, options); demo.start(); //Proyectos
- demo = new CountUp("CountUp3", 0, 2920, 0, 2.5, options); demo.start(); //Tazas de Café
+var demo = new CountUp("CountUp1", 0, 84650, 0, 2.5, options); demo.start(); //Líneas de Código
+ demo = new CountUp("CountUp2", 0, 32, 0, 2.5, options); demo.start(); //Proyectos
+ demo = new CountUp("CountUp3", 0, 93440, 0, 2.5, options); demo.start(); //Tazas de Café
 
 var radarChartData = {
         labels: ["SQL Server", "MySQL", "Postgres", "Oracle", "Mongo"],
